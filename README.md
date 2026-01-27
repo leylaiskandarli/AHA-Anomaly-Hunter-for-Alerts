@@ -30,6 +30,14 @@ The final output is a ranked list of anomalous objects suitable for inspection a
 
 ---
 
+## Pipeline Flowchart
+
+The figure below summarises the full AHA workflow, from data ingestion through anomaly ranking and follow-up prioritisation.
+
+![AHA pipeline flowchart](Figures/AHA_Pipeline.png)
+
+---
+
 ## Repository Structure & Notebooks
 
 The notebooks are ordered to reflect the logical flow of the analysis.  
