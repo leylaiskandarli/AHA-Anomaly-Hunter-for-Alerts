@@ -62,9 +62,6 @@ Trains a convolutional autoencoder on **alert image cutouts**.
 Trains an autoencoder on **g and r-band light curves**.
 
 
-### 07. `LiveAlertStream_Pipeline.ipynb`
-Applies all trained models to the **live ZTF alert stream**.
-
 
 ## What This Repository Is (and Is Not)
 
